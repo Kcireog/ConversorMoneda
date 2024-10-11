@@ -5,7 +5,7 @@ El objetivo es crear un conversor de monedas que permita convertir entre diferen
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Java 17** ☕
+- **Java 19** ☕
 - **Google Gson** para el manejo de JSON 📄
 - **HTTP Client** para realizar peticiones a la API 🌐
 - **IntelliJ IDEA** como entorno de desarrollo 💻
