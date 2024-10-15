@@ -16,4 +16,4 @@ El objetivo es crear un conversor de monedas que permita convertir entre diferen
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/challenge-conversor-monedas.git
+git clone https://github.com/Kcireog/ConversorMoneda.git
